@@ -1,0 +1,17 @@
+.intro__list {
+  min-width: 288px;
+  max-width: 690px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.intro__list-item {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.intro__list-value {
+  font-weight: normal;
+}
