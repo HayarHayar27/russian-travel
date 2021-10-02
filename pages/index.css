@@ -40,8 +40,6 @@
 @import url('../blocks/lead/__pic/lead__pic.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
 @import url('../blocks/lead/__title/lead__title.css');
-/* Logo */
-@import url('../blocks/logo/logo.css');
 /* Page */
 @import url('../blocks/page/__center/page__center.css');
 @import url('../blocks/page/page.css');
